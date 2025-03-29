@@ -1,1 +1,0 @@
-setTimeout("javascript:location.href='https://bilibili.com'",900);
